@@ -253,6 +253,8 @@ while True:
             
 
                 print(board)
+            elif(vacantsquare(chosenrow, chosencol) == False):
+                print(text)
                 
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_r:
