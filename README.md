@@ -5,3 +5,5 @@ Tic Tac Toe is essentially a game where an individual is required to obtain a wi
 The objective is either to win, or obtain a draw by blocking the path of the opponent.
 
 This is a two player tic tac toe project inspired by the minigame from Google and Codetech. When a winning row is determined, a prompt to restart is given and the phrase "game over" appears indicating it's end.
+
+You can run the game by simply downloading the code and using a IDE (eg. Visual studio code with python extension installed).
