@@ -6,4 +6,4 @@ The objective is either to win, or obtain a draw by blocking the path of the opp
 
 This is a two player tic tac toe project inspired by the minigame from Google and Codetech. When a winning row is determined, a prompt to restart is given and the phrase "game over" appears indicating it's end.
 
-You can run the game by simply downloading the code and using a IDE (eg. Visual studio code with python extension installed).
+You can run the game by running tictactoe.exe.
